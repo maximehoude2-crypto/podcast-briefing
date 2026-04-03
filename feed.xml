@@ -38,5 +38,18 @@
       <itunes:summary>Daily Intelligence Briefing for April 2, 2026. Covering markets, technology, and geopolitics.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
+  
+    <item>
+      <title>Daily Intelligence Briefing — April 3, 2026</title>
+      <description>Daily Intelligence Briefing for April 3, 2026. Covering markets, technology, and geopolitics.</description>
+      <pubDate>Fri, 03 Apr 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://maximehoude2-crypto.github.io/podcast-briefing/episodes/PodcastBrief_2026-04-03.mp3</guid>
+      <link>https://maximehoude2-crypto.github.io/podcast-briefing/episodes/PodcastBrief_2026-04-03.mp3</link>
+      <enclosure url="https://maximehoude2-crypto.github.io/podcast-briefing/episodes/PodcastBrief_2026-04-03.mp3" length="37901613" type="audio/mpeg"/>
+      <itunes:duration>36:08</itunes:duration>
+      <itunes:title>Daily Intelligence Briefing — April 3, 2026</itunes:title>
+      <itunes:summary>Daily Intelligence Briefing for April 3, 2026. Covering markets, technology, and geopolitics.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
