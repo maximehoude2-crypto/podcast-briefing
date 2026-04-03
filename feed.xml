@@ -5,8 +5,8 @@
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daily Intelligence Briefing</title>
-    <link>FEED_BASE_URL</link>
-    <atom:link href="FEED_BASE_URL/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://maximehoude2-crypto.github.io/podcast-briefing</link>
+    <atom:link href="https://maximehoude2-crypto.github.io/podcast-briefing/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily AI-generated intelligence briefing covering markets, technology, and geopolitics — delivered as a two-voice podcast.</description>
     <language>en-us</language>
     <managingEditor>podcast@example.com (Daily Intelligence Briefing)</managingEditor>
@@ -19,11 +19,24 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="FEED_BASE_URL/cover.jpg"/>
+    <itunes:image href="https://maximehoude2-crypto.github.io/podcast-briefing/cover.jpg"/>
     <image>
-      <url>FEED_BASE_URL/cover.jpg</url>
+      <url>https://maximehoude2-crypto.github.io/podcast-briefing/cover.jpg</url>
       <title>Daily Intelligence Briefing</title>
-      <link>FEED_BASE_URL</link>
+      <link>https://maximehoude2-crypto.github.io/podcast-briefing</link>
     </image>
+  
+    <item>
+      <title>Daily Intelligence Briefing — April 2, 2026 (Test)</title>
+      <description>Daily Intelligence Briefing for April 2, 2026. Covering markets, technology, and geopolitics.</description>
+      <pubDate>Thu, 02 Apr 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://maximehoude2-crypto.github.io/podcast-briefing/episodes/PodcastBrief_TTS_Test.mp3</guid>
+      <link>https://maximehoude2-crypto.github.io/podcast-briefing/episodes/PodcastBrief_TTS_Test.mp3</link>
+      <enclosure url="https://maximehoude2-crypto.github.io/podcast-briefing/episodes/PodcastBrief_TTS_Test.mp3" length="637440" type="audio/mpeg"/>
+      <itunes:duration>0:36</itunes:duration>
+      <itunes:title>Daily Intelligence Briefing — April 2, 2026 (Test)</itunes:title>
+      <itunes:summary>Daily Intelligence Briefing for April 2, 2026. Covering markets, technology, and geopolitics.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
