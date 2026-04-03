@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily Intelligence Briefing</title>
+    <link>FEED_BASE_URL</link>
+    <atom:link href="FEED_BASE_URL/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A daily AI-generated intelligence briefing covering markets, technology, and geopolitics — delivered as a two-voice podcast.</description>
+    <language>en-us</language>
+    <managingEditor>podcast@example.com (Daily Intelligence Briefing)</managingEditor>
+    <webMaster>podcast@example.com (Daily Intelligence Briefing)</webMaster>
+    <copyright>Daily Intelligence Briefing</copyright>
+    <itunes:author>Daily Intelligence Briefing</itunes:author>
+    <itunes:summary>A daily AI-generated intelligence briefing covering markets, technology, and geopolitics — delivered as a two-voice podcast.</itunes:summary>
+    <itunes:category text="News"/>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="FEED_BASE_URL/cover.jpg"/>
+    <image>
+      <url>FEED_BASE_URL/cover.jpg</url>
+      <title>Daily Intelligence Briefing</title>
+      <link>FEED_BASE_URL</link>
+    </image>
+  </channel>
+</rss>
